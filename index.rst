@@ -9,9 +9,9 @@ Welcome to github documentation!
 .. toctree::
    :maxdepth: 2
    :Numbers:
-
-
-
+   
+   sample.md
+ 
 Indices and tables
 ==================
 
